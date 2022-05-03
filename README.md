@@ -18,7 +18,7 @@ torch-geometric==1.0.2
 torch-scatter==1.0.2      
 torch-sparse==1.0.2  
 sklearn
-
+```
 ## Cite
 Kindly cite this paper if you make any reference to its contents or codes
 ```
